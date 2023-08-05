@@ -1,6 +1,4 @@
 # Pattern_Printing
-Repository Name: C++ Pattern_Printing
-
 Description:
 This repository contains a collection of C++ programs that demonstrate various pattern printing techniques. Printing patterns is a common exercise in programming that helps improve logic-building skills and familiarity with loops. The repository aims to provide clear and concise examples of how to create different patterns using C++ programming language.
 
